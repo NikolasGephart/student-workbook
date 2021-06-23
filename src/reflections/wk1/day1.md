@@ -13,6 +13,12 @@ The pace and content of the class only picked up from there. The rest of the day
     7. Using Git
     8. Setting Up the Journal
 
+### Link to Resume Github
+
+###################
+https://github.com/NikolasGephart/resume.git
+###################
+
 ## In your own words, why do we use Git?
 
 We use Git as an efficient way to document changes to code and access it from different devices and accounts. It also allows for accurate documentation of changes/edits by who and when. This gives incredible accuracy in tracking contributions by group members or individuals.
