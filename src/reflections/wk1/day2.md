@@ -1,4 +1,11 @@
 # Codeworks Day 2
+
+### Github Repos of the day
+
+###################
+https://github.com/NikolasGephart/coolSite.git
+###################
+
 # Date - 6/22/21
 
 Today the class started with an understanding CSS challenge/warmup. IT was a series of progressively more complicated css questions in order to specifically target parts of your HTML code. This later transitioned into the instructor covering building a basic website using HTML and CSS. After a basic sight page was made we were then introduced to FlexBox as an easier way to orient and style the HTML. As our project for the rest of the day we were shown a picture of a basic sight page with a double column layout and told to try our best to recreate it. It was definitely a struggle at the beginning involving me completely scrapping my first project(still shown on github)and starting a second version which turned out significantly better. It wasn’t great by any means but it still was much better.
