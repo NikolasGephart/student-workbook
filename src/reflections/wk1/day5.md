@@ -1,0 +1,2 @@
+# Overview of Day
+So far the day has started out by a former student coming in to talk about their time in the class and giving good tips on what to expect from the class and how to best go through it. After a quick break and two fun videos (The Expert) we went over what our checkpoint should look like. 
