@@ -3,7 +3,9 @@
 ### Github Repos of the day
 
 ###################
+
 https://github.com/NikolasGephart/coolSite
+
 ###################
 
 # Date - 6/23/21
@@ -18,8 +20,16 @@ I really liked the adding shading to the text background giving it a floating ap
 
 # Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
 
-
-
+<ul>
+  <li>
+  https://getbootstrap.com/docs/4.0/examples/
+  </li>
+  <li>
+  https://www.w3schools.com/w3css/w3css_templates.asp</li>
+  <li>
+  https://gridbyexample.com/examples/
+  </li>
+</ul>
 
 # How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 
