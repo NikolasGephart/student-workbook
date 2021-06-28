@@ -56,23 +56,29 @@ Here the main title's color will be changed to the value rgba(255, 210, 33, .75)
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+<main></main>
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+<ul> - unordered list
+<ol> - ordered list
+<dl> - description list
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+flex property allows you adjust the sizing, orientation and fit of whatever you have selected using css
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
+  margin
+  border
+  padding
 
+Those are the three properties that allow you to change the box model's slize
 ```
