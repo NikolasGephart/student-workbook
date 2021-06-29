@@ -1,5 +1,20 @@
-What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
+# Codeworks Day 6
+### Github Repos of the day
 
-What is the difference between Parameters and Arguments?
+###################
 
-What are higher order functions? Can you provide an example?
+
+
+###################
+
+### Date - 6/29/21
+
+
+## Overview of Day
+
+
+
+
+### What is the difference between Parameters and Arguments?
+
+### What are higher order functions? Can you provide an example?
