@@ -13,7 +13,11 @@ A sub-program designed for a particular task
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+S - Single Responsibility
+O - Open-closed Principle
+L - liskov substitution principle
+I - Interface Segregation Principale
+D - Dependancy Inversion Principle
 ```
 **4.** Given this array: 
 ```js
@@ -22,7 +26,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-[2] - I know this because an array starts at 0 and pineapple is in the third position
+arr [2] - I know this because an array starts at 0 and pineapple is in the third position
 ```
 **5.** With these two objects: 
 ```js
