@@ -32,4 +32,8 @@ So far the biggest benifits I've noticed by making a plan first are that there i
 
 ### How do you find answers when you are stuck?
 
+I have a few different options when it comes to resources. I can either talk to the TA's in order to get help with my code or simply google the issue. Because the goal of this class is for us to become the best indipendent programmers we can be and be able to teach ourselves this is probably going to be our best resource.
+
 ### From the entire article what are your biggest takeaways?
+
+There are a few things in the article that I was happy to already agree with and have as my own opinion and there were other parts where I realised that there is still a lot I can and should improve on.
