@@ -38,7 +38,10 @@ how would you .push the `them` object into the `you` object's array of friends?
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+function apples() {
+  if apple = red;
+  return console.log("It do be red")
+}
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
